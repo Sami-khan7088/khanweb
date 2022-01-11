@@ -10,7 +10,9 @@ function App() {
             <>
               
                 <div className="card">
+                <a href={c.link} target="_blank">
                   <img src={c.src} alt="myPic" className="img" />
+                  </a>
                   <div className="card_info">
                     <span className="card_category">{c.span}</span>
                     <h3 className="card_title">{c.title}</h3>

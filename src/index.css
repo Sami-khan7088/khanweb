@@ -18,8 +18,9 @@
     margin-bottom: 30px;
 }
 .cards{
+    
     width: 100%;
-    height: auto;
+    height:90%;
     display: grid;
     grid-template-columns: auto auto auto ;
     align-content: space-evenly;
@@ -61,6 +62,10 @@
     height:46vh;
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
+    background-color: #fff;
+}
+a{
+    background-color: #fff;
 }
 .card_title{
     background-color: #fff;
