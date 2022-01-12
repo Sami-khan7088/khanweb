@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/khanweb/static/css/main.b2b7f92b.css",
-    "main.js": "/khanweb/static/js/main.5988e821.js",
+    "main.css": "/khanweb/static/css/main.19d2fd2f.css",
+    "main.js": "/khanweb/static/js/main.6fe46a38.js",
     "static/js/787.35b66dd1.chunk.js": "/khanweb/static/js/787.35b66dd1.chunk.js",
     "index.html": "/khanweb/index.html",
-    "main.b2b7f92b.css.map": "/khanweb/static/css/main.b2b7f92b.css.map",
-    "main.5988e821.js.map": "/khanweb/static/js/main.5988e821.js.map",
+    "main.19d2fd2f.css.map": "/khanweb/static/css/main.19d2fd2f.css.map",
+    "main.6fe46a38.js.map": "/khanweb/static/js/main.6fe46a38.js.map",
     "787.35b66dd1.chunk.js.map": "/khanweb/static/js/787.35b66dd1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2b7f92b.css",
-    "static/js/main.5988e821.js"
+    "static/css/main.19d2fd2f.css",
+    "static/js/main.6fe46a38.js"
   ]
 }
