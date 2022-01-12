@@ -13,7 +13,7 @@ const Data = [{
 {
     src: "https://popcornsg.s3.amazonaws.com/gallery/1636588913-antim-th.jpg",
     span: "salman khan films",
-    title: "Antim: the final truth",
+    title: "Antim:the final truth",
     link: "https://www.zee5.com/movies/details/antim-the-final-truth/0-0-1z562203"
 },
 {

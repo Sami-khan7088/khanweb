@@ -15,10 +15,16 @@ function App() {
                   </a>
                   <div className="card_info">
                     <span className="card_category">{c.span}</span>
+                    <div className="heading">
+                    <div>
                     <h3 className="card_title">{c.title}</h3>
+                    </div>
+                    <div style={{backgroundColor:"#fff"}}>
                     <a href={c.link} target="_blank">
                       <button>watch Now</button>
                     </a>
+                    </div>
+                    </div>
                   </div>
                 </div>
             </>
