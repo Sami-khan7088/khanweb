@@ -10,7 +10,7 @@ function App() {
             <>
               
                 <div className="card">
-                <a href={c.link} target="_blank">
+                <a href={c.link}>
                   <img src={c.src} alt="myPic" className="img" />
                   </a>
                   <div className="card_info">
@@ -20,7 +20,7 @@ function App() {
                     <h3 className="card_title">{c.title}</h3>
                     </div>
                     <div style={{backgroundColor:"#fff"}}>
-                    <a href={c.link} target="_blank">
+                    <a href={c.link} >
                       <button>watch Now</button>
                     </a>
                     </div>
